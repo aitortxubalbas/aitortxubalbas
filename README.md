@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola Buenas Tardes
+#Soy Aitor Balbás
+#El ingles se me da fatal dudo hacer muchas cosas en ingles pero sigo aprendiendo
 
 <!--
 **aitortxubalbas/aitortxubalbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
